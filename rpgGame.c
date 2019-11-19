@@ -801,7 +801,15 @@ break;
 					while(choice != 99)
 					{
 							puts("you open the door and find ........");
+							puts("a ring");
+							puts("you read an inscripture "" ");
 							scanf("%d",&choice);
+						
+
+
+
+
+
 					}
 					break;
 			}
